@@ -1,4 +1,4 @@
 # DBproject
 Proyecto NODE.JS - Bases de Datos Multimedia
-
-	(Eslava - Solano)
+	Julian Esteban Eslava Rodríguez
+	Cesar Julian Solano Cruz
