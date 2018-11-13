@@ -1,0 +1,8 @@
+extends templates/default
+
+block content
+  h1= 'Proyecto NODE.JS'
+  p= 'Julian Esteban Eslava Rodríguez'
+  p= 'Cesar Julian Solano Cruz'
+  if isAuthenticated
+    p= 'Bienvenido ' + user.nombre
